@@ -9,5 +9,7 @@
 #import "CommonViewController.h"
 
 @interface HomeViewController : CommonViewController
-
+{
+    NSString *name;
+}
 @end

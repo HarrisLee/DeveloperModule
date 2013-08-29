@@ -26,6 +26,14 @@
 -(void) popMenuView
 {
     NSLog(@"12345678ssssss");
+    
+    
+    
+    
+    //hello
+    
+    
+    
 }
 
 - (void)viewDidLoad
@@ -43,6 +51,9 @@
     [self.navigationItem setRightBarButtonItem:rightBarButtonItem];
     [rightBarButtonItem release];
     [rightButton release];
+    
+    //this is 
+    
 }
 
 - (void)didReceiveMemoryWarning
