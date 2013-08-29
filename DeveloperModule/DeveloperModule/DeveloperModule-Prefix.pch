@@ -1,0 +1,34 @@
+//
+// Prefix header for all source files of the 'DeveloperModule' target in the 'DeveloperModule' project
+//
+
+#import <Availability.h>
+#import "PublicDefine.h"
+#import "DataCenter.h"
+#import "Utils.h"
+
+#import "HttpRequestCenter.h"
+//#import "CommonViewController.h"
+#import "AppDelegate.h"
+#import "DBManager.h"
+#import "UIScrollView+PullLoad.h"
+#import "JMWhenTapped.h"
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#ifndef __OPTIMIZE__
+#define NSLog(fmt, ...) NSLog((@"\n[文件:%s]" "\n[函数:%s]" "\n[行号:%d]\n" fmt), __FILE__, __FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+
+#define NSLog(...){}
+
+#endif
+
+#define alertMessage(x) {UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"提示" message:x delegate:nil cancelButtonTitle:@"确定" otherButtonTitles:nil];[alertView show];[alertView release];}

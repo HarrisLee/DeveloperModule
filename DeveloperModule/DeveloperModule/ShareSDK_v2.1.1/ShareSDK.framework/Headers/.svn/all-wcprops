@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers
+END
+ISSContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSContent.h
+END
+ISSCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSCredential.h
+END
+ISSOAuthCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSOAuthCredential.h
+END
+ISSiPadViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSiPadViewController.h
+END
+ISSPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSPage.h
+END
+ISSAuthOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSAuthOptions.h
+END
+ISSShareOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSShareOptions.h
+END
+ISSContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSContainer.h
+END
+ISSUserField.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSUserField.h
+END
+ShareSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ShareSDK.h
+END
+SSInheritValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/SSInheritValue.h
+END
+ISSShareViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSShareViewDelegate.h
+END
+ISSShareActionSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSShareActionSheet.h
+END
+ISSUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSUserInfo.h
+END
+ISSOAuth2Credential.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSOAuth2Credential.h
+END
+ISSStatusInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSStatusInfo.h
+END
+NSArray+ShareSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/NSArray+ShareSDK.h
+END
+ShareSDKDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ShareSDKDef.h
+END
+ShareSDKEventHandlerDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ShareSDKEventHandlerDef.h
+END
+ISSViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSViewDelegate.h
+END
+ISSAuthController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSAuthController.h
+END
+ShareSDKTypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ShareSDKTypeDef.h
+END
+ISSShareActionSheetItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Chinagowin/!svn/ver/4666/Projects/ECity/Code/ios/eCity%E4%B8%80%E6%9C%9F/eCity/ShareSDK_v2.1.1/ShareSDK.framework/Headers/ISSShareActionSheetItem.h
+END
