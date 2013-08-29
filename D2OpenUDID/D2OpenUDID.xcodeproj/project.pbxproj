@@ -1,0 +1,322 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8B10A21215B68BD2009171FD /* OpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B10A21015B68BD2009171FD /* OpenUDID.m */; };
+		8B10A21315B68BD2009171FD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8B10A21115B68BD2009171FD /* README.md */; };
+		8BBBF5EB15624371001748D4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BBBF5EA15624371001748D4 /* UIKit.framework */; };
+		8BBBF5ED15624371001748D4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BBBF5EC15624371001748D4 /* Foundation.framework */; };
+		8BBBF5EF15624371001748D4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BBBF5EE15624371001748D4 /* CoreGraphics.framework */; };
+		8BBBF5F515624371001748D4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8BBBF5F315624371001748D4 /* InfoPlist.strings */; };
+		8BBBF5F715624371001748D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BBBF5F615624371001748D4 /* main.m */; };
+		8BBBF5FB15624371001748D4 /* DemoOfOpenUDIDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BBBF5FA15624371001748D4 /* DemoOfOpenUDIDAppDelegate.m */; };
+		8BBBF60A15624390001748D4 /* LXF_OpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BBBF60915624390001748D4 /* LXF_OpenUDID.m */; };
+		8BBBF60E156243B5001748D4 /* DemoOfOpenUDIDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BBBF60C156243B5001748D4 /* DemoOfOpenUDIDViewController.m */; };
+		8BBBF60F156243B5001748D4 /* DemoOfOpenUDIDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8BBBF60D156243B5001748D4 /* DemoOfOpenUDIDViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8B10A20F15B68BD2009171FD /* OpenUDID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenUDID.h; sourceTree = "<group>"; };
+		8B10A21015B68BD2009171FD /* OpenUDID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenUDID.m; sourceTree = "<group>"; };
+		8B10A21115B68BD2009171FD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		8BBBF5E615624371001748D4 /* D2OpenUDID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = D2OpenUDID.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BBBF5EA15624371001748D4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8BBBF5EC15624371001748D4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8BBBF5EE15624371001748D4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8BBBF5F215624371001748D4 /* D2OpenUDID-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "D2OpenUDID-Info.plist"; sourceTree = "<group>"; };
+		8BBBF5F415624371001748D4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8BBBF5F615624371001748D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8BBBF5F815624371001748D4 /* D2OpenUDID-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "D2OpenUDID-Prefix.pch"; sourceTree = "<group>"; };
+		8BBBF5F915624371001748D4 /* DemoOfOpenUDIDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoOfOpenUDIDAppDelegate.h; sourceTree = "<group>"; };
+		8BBBF5FA15624371001748D4 /* DemoOfOpenUDIDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoOfOpenUDIDAppDelegate.m; sourceTree = "<group>"; };
+		8BBBF60815624390001748D4 /* LXF_OpenUDID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXF_OpenUDID.h; sourceTree = "<group>"; };
+		8BBBF60915624390001748D4 /* LXF_OpenUDID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXF_OpenUDID.m; sourceTree = "<group>"; };
+		8BBBF60B156243B5001748D4 /* DemoOfOpenUDIDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoOfOpenUDIDViewController.h; sourceTree = "<group>"; };
+		8BBBF60C156243B5001748D4 /* DemoOfOpenUDIDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoOfOpenUDIDViewController.m; sourceTree = "<group>"; };
+		8BBBF60D156243B5001748D4 /* DemoOfOpenUDIDViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DemoOfOpenUDIDViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8BBBF5E315624371001748D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BBBF5EB15624371001748D4 /* UIKit.framework in Frameworks */,
+				8BBBF5ED15624371001748D4 /* Foundation.framework in Frameworks */,
+				8BBBF5EF15624371001748D4 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8B10A20E15B68BD2009171FD /* 新版ylechelle-OpenUDID-a3840eb */ = {
+			isa = PBXGroup;
+			children = (
+				8B10A20F15B68BD2009171FD /* OpenUDID.h */,
+				8B10A21015B68BD2009171FD /* OpenUDID.m */,
+				8B10A21115B68BD2009171FD /* README.md */,
+			);
+			name = "新版ylechelle-OpenUDID-a3840eb";
+			path = "ylechelle-OpenUDID-a3840eb";
+			sourceTree = "<group>";
+		};
+		8BBBF5DB15624371001748D4 = {
+			isa = PBXGroup;
+			children = (
+				8BBBF5F015624371001748D4 /* D2OpenUDID */,
+				8BBBF5E915624371001748D4 /* Frameworks */,
+				8BBBF5E715624371001748D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8BBBF5E715624371001748D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8BBBF5E615624371001748D4 /* D2OpenUDID.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8BBBF5E915624371001748D4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8BBBF5EA15624371001748D4 /* UIKit.framework */,
+				8BBBF5EC15624371001748D4 /* Foundation.framework */,
+				8BBBF5EE15624371001748D4 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8BBBF5F015624371001748D4 /* D2OpenUDID */ = {
+			isa = PBXGroup;
+			children = (
+				8B10A20E15B68BD2009171FD /* 新版ylechelle-OpenUDID-a3840eb */,
+				8BBBF60715624390001748D4 /* OpenUDID */,
+				8BBBF5F915624371001748D4 /* DemoOfOpenUDIDAppDelegate.h */,
+				8BBBF5FA15624371001748D4 /* DemoOfOpenUDIDAppDelegate.m */,
+				8BBBF60B156243B5001748D4 /* DemoOfOpenUDIDViewController.h */,
+				8BBBF60C156243B5001748D4 /* DemoOfOpenUDIDViewController.m */,
+				8BBBF60D156243B5001748D4 /* DemoOfOpenUDIDViewController.xib */,
+				8BBBF5F115624371001748D4 /* Supporting Files */,
+			);
+			path = D2OpenUDID;
+			sourceTree = "<group>";
+		};
+		8BBBF5F115624371001748D4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8BBBF5F215624371001748D4 /* D2OpenUDID-Info.plist */,
+				8BBBF5F315624371001748D4 /* InfoPlist.strings */,
+				8BBBF5F615624371001748D4 /* main.m */,
+				8BBBF5F815624371001748D4 /* D2OpenUDID-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8BBBF60715624390001748D4 /* OpenUDID */ = {
+			isa = PBXGroup;
+			children = (
+				8BBBF60815624390001748D4 /* LXF_OpenUDID.h */,
+				8BBBF60915624390001748D4 /* LXF_OpenUDID.m */,
+			);
+			path = OpenUDID;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8BBBF5E515624371001748D4 /* D2OpenUDID */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8BBBF60415624372001748D4 /* Build configuration list for PBXNativeTarget "D2OpenUDID" */;
+			buildPhases = (
+				8BBBF5E215624371001748D4 /* Sources */,
+				8BBBF5E315624371001748D4 /* Frameworks */,
+				8BBBF5E415624371001748D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = D2OpenUDID;
+			productName = D2OpenUDID;
+			productReference = 8BBBF5E615624371001748D4 /* D2OpenUDID.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8BBBF5DD15624371001748D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = DemoOfOpenUDID;
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 8BBBF5E015624371001748D4 /* Build configuration list for PBXProject "D2OpenUDID" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8BBBF5DB15624371001748D4;
+			productRefGroup = 8BBBF5E715624371001748D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8BBBF5E515624371001748D4 /* D2OpenUDID */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8BBBF5E415624371001748D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BBBF5F515624371001748D4 /* InfoPlist.strings in Resources */,
+				8BBBF60F156243B5001748D4 /* DemoOfOpenUDIDViewController.xib in Resources */,
+				8B10A21315B68BD2009171FD /* README.md in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8BBBF5E215624371001748D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BBBF5F715624371001748D4 /* main.m in Sources */,
+				8BBBF5FB15624371001748D4 /* DemoOfOpenUDIDAppDelegate.m in Sources */,
+				8BBBF60A15624390001748D4 /* LXF_OpenUDID.m in Sources */,
+				8BBBF60E156243B5001748D4 /* DemoOfOpenUDIDViewController.m in Sources */,
+				8B10A21215B68BD2009171FD /* OpenUDID.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8BBBF5F315624371001748D4 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8BBBF5F415624371001748D4 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8BBBF60215624372001748D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8BBBF60315624372001748D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8BBBF60515624372001748D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Changming Li (HH8XZC7936)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Changming Li (HH8XZC7936)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "D2OpenUDID/D2OpenUDID-Prefix.pch";
+				INFOPLIST_FILE = "D2OpenUDID/D2OpenUDID-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8DC64EB4-BD95-4470-897C-3FD739758611";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8DC64EB4-BD95-4470-897C-3FD739758611";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8BBBF60615624372001748D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Changming Li (HH8XZC7936)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Changming Li (HH8XZC7936)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "D2OpenUDID/D2OpenUDID-Prefix.pch";
+				INFOPLIST_FILE = "D2OpenUDID/D2OpenUDID-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8DC64EB4-BD95-4470-897C-3FD739758611";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8DC64EB4-BD95-4470-897C-3FD739758611";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8BBBF5E015624371001748D4 /* Build configuration list for PBXProject "D2OpenUDID" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BBBF60215624372001748D4 /* Debug */,
+				8BBBF60315624372001748D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8BBBF60415624372001748D4 /* Build configuration list for PBXNativeTarget "D2OpenUDID" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BBBF60515624372001748D4 /* Debug */,
+				8BBBF60615624372001748D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8BBBF5DD15624371001748D4 /* Project object */;
+}
